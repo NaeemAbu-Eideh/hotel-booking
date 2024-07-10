@@ -29,3 +29,7 @@ This mobile application is called Hotel Booking. It is possible to reserve hotel
 <p><img src="https://github.com/NaeemAbu-Eideh/hotel-booking/assets/131676954/6cad5cca-2b4d-49c3-acbb-9d092529589a" alt="Hotel Booking App" width="600"></p>
 
 ## How run application:
+- Clone the repo
+- install Flutter on your laptop
+- install Java Spring boot on your laptop
+- to run backend file you need install xampp
