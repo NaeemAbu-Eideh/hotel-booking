@@ -22,8 +22,10 @@ Hotel Booking is a mobile application designed to make it easier for users to bo
 <img src="https://github.com/NaeemAbu-Eideh/hotel-booking/assets/131676954/d20fc7e4-a6e7-490c-a65c-1d135a545b48" alt="Hotel Booking App" width="600">
 
 
-## sequence diagram:
+## Sequence Diagram:
 
 <p><img src="https://github.com/NaeemAbu-Eideh/hotel-booking/assets/131676954/f361faa1-3d67-45f9-a259-67dd907ad6e0" alt="Hotel Booking App" width="600"></p>
 <br>
 <p><img src="https://github.com/NaeemAbu-Eideh/hotel-booking/assets/131676954/6cad5cca-2b4d-49c3-acbb-9d092529589a" alt="Hotel Booking App" width="600"></p>
+
+## How run application:
