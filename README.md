@@ -15,3 +15,9 @@ Hotel Booking is a mobile application designed to make it easier for users to bo
   - Java Spring Boot
 - Database:
   - MySQL
+
+
+## Use Case:
+
+![image](https://github.com/NaeemAbu-Eideh/hotel-booking/assets/131676954/d20fc7e4-a6e7-490c-a65c-1d135a545b48)
+
