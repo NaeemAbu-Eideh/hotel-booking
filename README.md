@@ -1,11 +1,11 @@
 ## Hotel Booking
-Hotel Booking is a mobile application designed to make it easier for users to book hotels worldwide and for hotel managers to manage booking requests efficiently. This application supports both iOS and Android platforms, providing a seamless experience for all users.
+This mobile application is called Hotel Booking. It is possible to reserve hotels all over the world using this app easily, and likewise it streamlines how hotel managers handle booking requests.
 
 ## Features:
-- Cross-Platform Application: Developed using Flutter to ensure high performance on both iOS and Android devices.
-- Dynamic Pages and Dialogs: Created with Flutter's responsive design to provide an intuitive and engaging user interface.
-- Booking Management: Allows hotel managers to accept or reject booking requests with ease.
-- Database Integration: Utilized MySQL for the relational database design and implementation, integrated with Java Spring Boot for backend operations.
+- Flutter Cross-platform Application: The main purpose of Flutter in this case is to ensure optimum performance on iOS and Android devices.
+- Responsive Pages and Dialogs: A proactive user experience has been achieved by adopting Flutter’s responsive design techniques.
+- Booking Management: With Hotel Booking, hotel managers are able to accept or decline reservation requests effortlessly.
+- Database Integration: We used MySQL for database implementation based on relational model, combined with Java Spring Boot for backend operations
 
 
 ## Technologies Used:
