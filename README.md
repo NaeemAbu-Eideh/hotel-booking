@@ -27,9 +27,10 @@ This mobile application is called Hotel Booking. It is possible to reserve hotel
 
 ## How run application:
 - Clone the repo
-- install Flutter on your laptop <a href="https://docs.flutter.dev/get-started/install">download flutter </a>
-- install Java Spring boot on your laptop
-- to run backend file you need install xampp
+- install Flutter on your laptop <a href="https://docs.flutter.dev/get-started/install">download flutter</a>
+- install Java Spring boot on your laptop <a href="https://sourceforge.net/projects/spring-boot.mirror/">download Java Spring Boot</a>
+- to run backend file you need install xampp <a href="https://www.apachefriends.org/download.html">download xampp</a>
+- after install xampp start action with Apache and MySQL and click on MySQL convig
 
 
 
